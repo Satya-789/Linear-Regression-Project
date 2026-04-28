@@ -18,7 +18,7 @@ and predict **Yearly Amount Spent**.
 
 ### 🔍 EDA - Pairplot
 
-![Pairplot](images/pairplot.png)
+![Pairplot](images/Pairplot.png)
 
 ### 📊 Correlation Heatmap
 
