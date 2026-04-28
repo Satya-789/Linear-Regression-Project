@@ -9,19 +9,14 @@ What drives customer spending
 Which platform (App vs Website) performs better
 How businesses can optimize revenue
 
-## 📦 Dataset Description
+## 📦 Dataset
 
-The dataset contains the following features:
+-   Avg. Session Length
+-   Time on App
+-   Time on Website
+-   Length of Membership
+-   Yearly Amount Spent
 
-**Avg. Session Length**
-
-**Time on App**
-
-**Time on Website**
-
-**Length of Membership**
-
-**Yearly Amount Spent (Target Variable)**
 
 ------------------------------------------------------------------------
 
@@ -54,15 +49,6 @@ and predict **Yearly Amount Spent**.
 
 ------------------------------------------------------------------------
 
-## 📦 Dataset
-
--   Avg. Session Length\
--   Time on App\
--   Time on Website\
--   Length of Membership\
--   Yearly Amount Spent
-
-------------------------------------------------------------------------
 
 ## 🤖 Model
 
