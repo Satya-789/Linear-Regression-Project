@@ -13,11 +13,15 @@ How businesses can optimize revenue
 
 The dataset contains the following features:
 
-Avg. Session Length
-Time on App
-Time on Website
-Length of Membership
-Yearly Amount Spent (Target Variable)
+**Avg. Session Length**
+
+**Time on App**
+
+**Time on Website**
+
+**Length of Membership**
+
+**Yearly Amount Spent (Target Variable)**
 
 ------------------------------------------------------------------------
 
