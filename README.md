@@ -42,11 +42,12 @@ and predict **Yearly Amount Spent**.
 ![Residual Plot](Images/Residual_plot.png)
 
 ------------------------------------------------------------------------
-
-
-## 🤖 Model
-
--   Linear Regression (Scikit-learn)
+##  🤖 Model Building
+### ⚙️ Steps
+- Train-test split
+- Model training using LinearRegression
+- Predictions
+- Evaluation
 
 ------------------------------------------------------------------------
 
