@@ -43,7 +43,7 @@ and predict **Yearly Amount Spent**.
 
 ### 📉 Residual Plot
 
-![Residual Plot](images/residual_plot.png)
+![Residual Plot](Images/Residual_plot.png)
 
 > ⚠️ Place your images inside a folder named `images` in your repo.
 
