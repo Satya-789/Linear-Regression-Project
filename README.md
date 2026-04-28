@@ -33,10 +33,6 @@ and predict **Yearly Amount Spent**.
 
 ![Pairplot](Images/Pairplot.png)
 
-### 📊 Correlation Heatmap
-
-![Heatmap](images/heatmap.png)
-
 ### 📈 Predictions vs Actual
 
 ![Pred vs Actual](images/pred_vs_actual.png)
@@ -44,8 +40,6 @@ and predict **Yearly Amount Spent**.
 ### 📉 Residual Plot
 
 ![Residual Plot](Images/Residual_plot.png)
-
-> ⚠️ Place your images inside a folder named `images` in your repo.
 
 ------------------------------------------------------------------------
 
@@ -58,39 +52,33 @@ and predict **Yearly Amount Spent**.
 
 ## 📈 Evaluation
 
--   MAE\
--   MSE\
+-   MAE
+-   MSE
 -   RMSE
 
-------------------------------------------------------------------------
-
-## 💡 Key Insights
-
--   📱 App drives revenue\
--   🌐 Website underperforms\
--   🔁 Loyalty is strongest factor
+-----------------------------------------------------------------------
 
 ------------------------------------------------------------------------
 
 ## 🚀 Business Impact
 
--   Improve app UX\
--   Focus on retention\
--   Optimize website funnel
+## 🎯 Business Decision 
 
+👉 The company should focus more on the mobile app, because:
+
+It has a strong positive impact
+Website has no meaningful contribution (even slightly negative)
+
+
+## 🤔 But cann’t ignore this nuance 
+
+
+“The negative coefficient for Time on Website suggests potential issues with the website experience. Instead of ignoring it, the company should investigate whether improving the website could unlock additional revenue.”
 ------------------------------------------------------------------------
 
 ## 🛠️ Tech Stack
 
 Python \| Pandas \| NumPy \| Seaborn \| Matplotlib \| Scikit-learn
-
-------------------------------------------------------------------------
-
-## 📌 Future Work
-
--   Random Forest / XGBoost\
--   Feature engineering\
--   Hyperparameter tuning
 
 ------------------------------------------------------------------------
 
