@@ -35,7 +35,7 @@ and predict **Yearly Amount Spent**.
 
 ### 📈 Predictions vs Actual
 
-![Pred vs Actual](images/pred_vs_actual.png)
+![Pred vs Actual](Images/pred_vs_actual.png)
 
 ### 📉 Residual Plot
 
