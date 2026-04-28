@@ -1,9 +1,23 @@
-# 📊 Linear Regression Project -- Customer Spending Analysis
+# 📊 Linear Regression Project – Customer Spending Analysis
+## 📁 Project Overview
 
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-![ML](https://img.shields.io/badge/Machine%20Learning-Linear%20Regression-green)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-![Library](https://img.shields.io/badge/Scikit--Learn-Used-orange)
+This project applies Linear Regression to analyze customer behavior and predict Yearly Amount Spent based on user activity data from an e-commerce platform.
+
+The goal is to understand:
+
+What drives customer spending
+Which platform (App vs Website) performs better
+How businesses can optimize revenue
+
+## 📦 Dataset Description
+
+The dataset contains the following features:
+
+Avg. Session Length
+Time on App
+Time on Website
+Length of Membership
+Yearly Amount Spent (Target Variable)
 
 ------------------------------------------------------------------------
 
